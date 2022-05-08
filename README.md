@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ratang94](https://github.com/ratang94)
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/gauravratan/recent-activity/shares/](https://www.linkedin.com/in/gauravratan/recent-activity/shares/)
 
 - 💬 Ask me about **Analytics Use-Cases in Business**
@@ -30,5 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratang94&show_icons=true&locale=en" alt="ratang94" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratang94&" alt="ratang94" /></p>
-
 
