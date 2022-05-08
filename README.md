@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Gaurav Ratan</h1>
 <h3 align="center">A Passionate Analytics Professional from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratang94&label=Profile%20views&color=0e75b6&style=flat" alt="ratang94" /> </p>
 
@@ -31,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratang94&show_icons=true&locale=en" alt="ratang94" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratang94&" alt="ratang94" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ratang94&" alt="ratang94" /></p>
 
