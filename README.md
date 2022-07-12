@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
+- 📫 Join my Telegram Channel where we discuss Data Science and Analytics [https://t.me/+9PPV7zXAerdkMzQ1](https://t.me/+9PPV7zXAerdkMzQ1)
+
 - 👨‍💻 All of my projects are available at [https://github.com/ratang94](https://github.com/ratang94)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/gauravratan/recent-activity/shares/](https://www.linkedin.com/in/gauravratan/recent-activity/shares/)
