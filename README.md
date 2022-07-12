@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Ratan</h1>
-<h3 align="center">A Passionate Analytics Professional with an MBA and B.Tech (CSE) from India</h3>
+<h3 align="center">A Passionate Data Science and Analytics Professional with an MBA and B.Tech (CSE) from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratang94&label=Profile%20views&color=0e75b6&style=flat" alt="ratang94" /> </p>
